@@ -1,0 +1,13 @@
+.idea
+__pycache__
+.idea/*
+__pycache__/*
+*/__pycache__
+*/__pycache__/*
+*.pyc
+images/*
+venv3
+venv3/*
+.git
+.git/*
+*.pptx
